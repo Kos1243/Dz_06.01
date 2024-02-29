@@ -1,0 +1,279 @@
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.csprojAssemblyReference.cache
+C:\Users\PK2\source\repos\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\FirstPage.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\Menu.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\SecondPage.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\ThirdPage.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\App.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf_Content.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\PK2\source\repos\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\PK2\source\repos\Wpf\bin\Debug\Wpf.exe
+C:\Users\PK2\source\repos\Wpf\bin\Debug\Wpf.pdb
+C:\Users\PK2\source\repos\Wpf\bin\Debug\EntityFramework.dll
+C:\Users\PK2\source\repos\Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PK2\source\repos\Wpf\bin\Debug\EntityFramework.xml
+C:\Users\PK2\source\repos\Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PK2\source\repos\Wpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PK2\source\repos\Wpf\obj\Debug\MainWindow.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\AuthPage.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\FirstPage.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\Menu.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\SecondPage.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\ThirdPage.baml
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.csproj.CopyComplete
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.exe
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Wpf.pdb
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\PK2\source\repos\Wpf\obj\Debug\Pages\AddEditPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\FirstPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\Menu.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\SecondPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\ThirdPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\App.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf_Content.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.exe
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\Wpf.exe
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\Wpf.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\EntityFramework.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\EntityFramework.xml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\MainWindow.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AuthPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\FirstPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\Menu.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\SecondPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\ThirdPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Wpf.csproj.CopyComplete
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage2.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage2.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage3.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf\obj\Debug\Pages\AddEditPage3.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\Wpf.exe.config
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\Wpf.exe
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\Wpf.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\EntityFramework.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\EntityFramework.xml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\MainWindow.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage2.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage3.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\FirstPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\Menu.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\SecondPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\ThirdPage.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\App.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf_Content.g.cs
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\MainWindow.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage2.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AddEditPage3.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\AuthPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\FirstPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\Menu.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\SecondPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Pages\ThirdPage.baml
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.g.resources
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.csproj.CopyComplete
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.exe
+C:\Users\av700\OneDrive\Рабочий стол\Калякин 43\Wpf12\obj\Debug\Wpf.pdb
+F:\Murzin\Новая папка\Wpf12\bin\Debug\Wpf.exe.config
+F:\Murzin\Новая папка\Wpf12\bin\Debug\Wpf.exe
+F:\Murzin\Новая папка\Wpf12\bin\Debug\Wpf.pdb
+F:\Murzin\Новая папка\Wpf12\bin\Debug\EntityFramework.dll
+F:\Murzin\Новая папка\Wpf12\bin\Debug\EntityFramework.SqlServer.dll
+F:\Murzin\Новая папка\Wpf12\bin\Debug\EntityFramework.xml
+F:\Murzin\Новая папка\Wpf12\bin\Debug\EntityFramework.SqlServer.xml
+F:\Murzin\Новая папка\Wpf12\bin\Debug\ru\EntityFramework.resources.dll
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.csproj.AssemblyReference.cache
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.csproj.SuggestedBindingRedirects.cache
+F:\Murzin\Новая папка\Wpf12\obj\Debug\MainWindow.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage2.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage3.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AuthPage.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\FirstPage.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\Menu.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\SecondPage.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\ThirdPage.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\App.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf_Content.g.cs
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf_MarkupCompile.cache
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf_MarkupCompile.lref
+F:\Murzin\Новая папка\Wpf12\obj\Debug\MainWindow.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage2.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AddEditPage3.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\AuthPage.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\FirstPage.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\Menu.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\SecondPage.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Pages\ThirdPage.baml
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.g.resources
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.Properties.Resources.resources
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.csproj.GenerateResource.cache
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.csproj.CopyComplete
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.exe
+F:\Murzin\Новая папка\Wpf12\obj\Debug\Wpf.pdb
+F:\Murzin\Резерв\Wpf12\bin\Debug\Wpf.exe.config
+F:\Murzin\Резерв\Wpf12\bin\Debug\Wpf.exe
+F:\Murzin\Резерв\Wpf12\bin\Debug\Wpf.pdb
+F:\Murzin\Резерв\Wpf12\bin\Debug\EntityFramework.dll
+F:\Murzin\Резерв\Wpf12\bin\Debug\EntityFramework.SqlServer.dll
+F:\Murzin\Резерв\Wpf12\bin\Debug\EntityFramework.xml
+F:\Murzin\Резерв\Wpf12\bin\Debug\EntityFramework.SqlServer.xml
+F:\Murzin\Резерв\Wpf12\bin\Debug\ru\EntityFramework.resources.dll
+F:\Murzin\Резерв\Wpf12\obj\Debug\MainWindow.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage2.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage3.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AuthPage.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\FirstPage.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Menu.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\SecondPage.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\ThirdPage.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\App.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf_Content.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf_MarkupCompile.cache
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf_MarkupCompile.lref
+F:\Murzin\Резерв\Wpf12\obj\Debug\MainWindow.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage2.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AddEditPage3.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\AuthPage.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\FirstPage.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Menu.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\SecondPage.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\ThirdPage.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.g.resources
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.Properties.Resources.resources
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.csproj.GenerateResource.cache
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.csproj.CopyComplete
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.exe
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.pdb
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page1.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page1.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page2.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page2.baml
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page3.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page3.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage2.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage3.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\FirstPage.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Menu.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page1.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page2.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page3.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\SecondPage.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\ThirdPage.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf_Content.g.cs
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.exe
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.pdb
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\Wpf.exe.config
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\Wpf.exe
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\Wpf.pdb
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Резерв\Wpf12\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage2.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AddEditPage3.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\AuthPage.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\FirstPage.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Menu.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page1.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page2.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\Page3.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\SecondPage.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Pages\ThirdPage.baml
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.g.resources
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Резерв\Wpf12\obj\Debug\Wpf.csproj.CopyComplete
+F:\Murzin\Резерв\Wpf12\obj\Debug\Wpf.csprojAssemblyReference.cache
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page4.g.cs
+F:\Murzin\Резерв\Wpf12\obj\Debug\Pages\Page4.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.csprojAssemblyReference.cache
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\MainWindow.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\AuthPage.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\FirstPage.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page3.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page4.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\App.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf_Content.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf_MarkupCompile.cache
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf_MarkupCompile.lref
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.exe
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.pdb
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\Wpf.exe.config
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\Wpf.exe
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\Wpf.pdb
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\EntityFramework.dll
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\EntityFramework.SqlServer.dll
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\EntityFramework.xml
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\EntityFramework.SqlServer.xml
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\ru\EntityFramework.resources.dll
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\MainWindow.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\AuthPage.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\FirstPage.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page3.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page4.baml
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.g.resources
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.Properties.Resources.resources
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.csproj.GenerateResource.cache
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Wpf.csproj.CopyComplete
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\ClientPage.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\ClientPage.baml
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\Aspose.BarCode.dll
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\Aspose.BarCode.xml
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page5.g.cs
+F:\Murzin\Резерв — копия\Wpf12\obj\Debug\Pages\Page5.baml
+F:\Murzin\Резерв — копия\Wpf12\bin\Debug\MessagingToolkit.QRCode.dll
